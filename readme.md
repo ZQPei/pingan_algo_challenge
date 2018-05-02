@@ -3,7 +3,7 @@
 ### 使用说明
 
 - 把train.csv,test.csv放入data目录下。
-- 运行src目录中的main.py，以及main_easy_ensemble.py（这是对main做的改进，用到easy_ensemble方法）。
+- 运行src目录中的main.py，或者main_easy_ensemble.py（这是对main做的改进，用到easy_ensemble方法）。
 - 所有参数的设置都放在main.py的22~100行。
 
 ### 算法说明
